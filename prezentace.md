@@ -299,7 +299,7 @@ AI agent přes MCP umí:
 
 1. DevOps = **kultura** + automatizace + zpětná vazba
 2. **Ticket → Branch → PR → CI → Deploy → Monitor** -- celý cyklus
-3. AI pomáhá v **každé fázi**, ale potřebuje lidský dohled
+3. AI pomáhá v **každé fázi**, ale zatím potřebuje lidský dohled
 4. Postupná důvěra: návrhy → asistence → agenti s kontrolou
 
 ## Závěr
